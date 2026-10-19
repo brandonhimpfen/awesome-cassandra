@@ -40,6 +40,7 @@
 - [DBeaver](https://dbeaver.io/) - A universal database tool that supports Apache Cassandra.
 - [DBVisualizer](https://www.dbvis.com/) - A database management tool that supports Apache Cassandra.
 - [NoSQL Workbench](https://aws.amazon.com/nosql-workbench/) - A visual design tool for NoSQL databases, including support for Apache Cassandra.
+- [Beekeeper Studio](https://www.beekeeperstudio.io/db/cassandra-client/) - A modern and easy to use database manager for Apache Cassandra, PostgreSQL, MySQL, and more.
 
 ## Backup and Migration
 
